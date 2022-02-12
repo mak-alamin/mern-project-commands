@@ -1,0 +1,17 @@
+1. Create index.js file and then
+
+2. Init project
+==> npm init -y
+
+3. Install server packages
+==> npm install body-parser cors express mongoose nodemon
+
+4. Then import the packages in index.js file
+
+5. In package.json
+   => Add "type": "module" bellow the "main": "index.js"
+   => Add "start": "nodemon index.js" in the "scripts"
+
+
+That's it.
+Whooo! We are good to start server side development.
